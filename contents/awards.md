@@ -1,3 +1,4 @@
-- 校级一等奖学金, 2022.  
+中国大学生计算机设计大赛省级二等奖，2023.
+<br>校级二等奖学金, 2026.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Outstanding Graduation Thesis, Taiyuan University of Science and Technology, 2025. 
