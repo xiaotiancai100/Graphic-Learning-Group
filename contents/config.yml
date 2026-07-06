@@ -3,3 +3,7 @@ page-top-title: 图学习小组
 top-section-bg-text: Be what you wanna be ！
 home-subtitle: Chengyu Wei&ensp;|&ensp;程玉威
 copyright-text: '&copy; 图学习小组 2025-2028. All Rights Reserved.'
+permissions:
+  contents: read
+  pages: write
+  id-token: write   # 这个极其重要，用于生成 OIDC 令牌
