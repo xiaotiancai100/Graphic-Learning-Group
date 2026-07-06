@@ -1,5 +1,6 @@
+e.g.
 ### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+**January 2026 – June 2026 | ByteDance**  
 
 Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
 
@@ -10,6 +11,7 @@ Worked on the development and optimization of large-scale recommendation systems
 
 ---
 
+例：
 ### **软件工程师实习生**  
 **2026年1月 – 2026年6月 | 字节跳动**  
 

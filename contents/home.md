@@ -10,11 +10,16 @@ I’m currently pursuing a Master’s degree in Artificial Intelligence at the S
 **Taiyuan University of Science and Technology**, Master of Engineering in Artificial Intelligence (2025 – 2028)  
 • GPA: 4.8/5.0  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+e.g.  **University of California, Berkeley**, Exchange Student (Sep 2023 – Jan 2024)
+• Selected as one of the top 5 students from the School of Computer Science for the "Global Engineering Talent" exchange program.
+• Completed advanced coursework in Distributed Systems and Algorithm Design, achieving a 4.0 GPA.
+• Collaborated with international peers to develop a traffic flow prediction model using Python.
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Dezhou University**, Honours Bachelor of Computer Science and Technology (2021 – 2025)  
+• GPA: 3.6/5.0 (top 20%)  
+
+#### Coursework
+Machine Learning, Data Structures (e.g., Trees, Graphs), Algorithms.
 
 #### Research Interests  
-XX, XX, XX, XX.
+Computer Vision (e.g., Object Detection), NLP.
